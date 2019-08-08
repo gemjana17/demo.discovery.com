@@ -1,7 +1,10 @@
 # demo.discovery.com
 This is a Demo Repository for discovery.com
 
+Using JAVA as the CodeBase
 This Framework covers, validation of Launching "discovery.com", adding Recommended Videos to Favourite itema, then validating the added items are available in the favourite List using Assertions.
+
+All the dependencies required for the execution were added.
 
 It is a PageObject Model FrameWork
 Seperate PageObjects created for seperatedPages
